@@ -1,0 +1,8 @@
+MyIntent what sizes are in stock
+HelloIntent I need some assistance
+HelloIntent What do I do
+HelloIntent I need help
+UserNameIntent {name|Name}
+UserNameIntent what is in my cart it's {name|Name}
+UserNameIntent what items are my cart it's {name|Name}
+UserNameIntent what do I have in my cart it's {name|Name}

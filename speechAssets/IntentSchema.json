@@ -1,0 +1,28 @@
+{
+  "intents": [
+    {
+      "intent": "MyIntent"
+    },
+    {
+      "intent": "HelloIntent"
+    },
+    {
+      "slots": [
+        {
+          "name": "Name",
+          "type": "AMAZON.LITERAL"
+        }
+      ],
+      "intent": "UserNameIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}
